@@ -1,0 +1,157 @@
+                         ______            _____         ______
+                   _____/     /   _  _____/    /   __  __\___  \__
+         _ _____  _\   /     /  _____    /   _/ _______    _/   _/_ _____
+          _____/___   /     /__/    /   _    \__\__   /__  \      / ____/___
+      ______      /  /_    /  /   _/    /     /   /     /  /     /___      /
+    _ /    /     /________/  _    \____/_____/   /     /__/_____/   /     /_
+  _///    /     /   _ _      /     /   __ _     /     /    _ _     /     ///_
+  - /__________/ ---- /_____/_____/ ----- /__________/ ----- /__________/ ---
+  |                                                                         |
+  |                 - P R O U D L Y      P R E S E N T S -                  |
+..:_________________________________________________________________________:..
+  :                                                                         :
+  |       Title : TINY METAL (Update v1.1.0)                                |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Publisher : Unties                      Platform : Nintendo Switch    |
+  |   Developer : Area 35                       Origin : eShop              |
+  |       Genre : Simulation / Strategy       Title ID : 010074800741A800   |
+  |        Date : December 2018                 Format : 17x50MB / NSP      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |     Summary                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   It's WAR, in TINY METAL the revival of Japanese Arcade Wargaming!     |
+  |                                                                         |
+  |   A turn-based strategy game of intrigue with a distinct Japanese       |
+  |   flavor that takes place in the aftermath of your king's               |
+  |   assassination. Roll out the tanks, create more troops, expand your    |
+  |   squad, and struggle for territory with war-room levels of control!    |
+  |                                                                         |
+  |   Outfight the enemy with your own army of foot soldiers, tanks,        |
+  |   helicopters, tactical vehicles, and fighter jets. Capture rival       |
+  |   territories and extend your military power over the sprawling map     |
+  |   of Zipang. Follow the gripping story of Nathan Gries and answer for   |
+  |   yourself what is - and what isn't - worth fighting for.               |
+  |                                                                         |
+  |   Inspired by turn-based strategy games of the past, TINY METAL takes   |
+  |   the finely honed gameplay of classical Japanese war gaming and        |
+  |   brings it into the modern era with great graphics, 15 unique units,   |
+  |   and never-before-seen gameplay mechanics. TINY METAL is the           |
+  |   Japanese arcade war game you wish you had as a kid.                   |
+  |                                                                         |
+  |   Story:                                                                |
+  |                                                                         |
+  |   Play as Artemisian Lieutenant Nathan Gries as he commands his units   |
+  |   to victory against the villainous nation of Zipang.                   |
+  |                                                                         |
+  |   Languages: English, French, Italian, German, Spanish, Russian,        |
+  |   Japanese, Korean and Chinese.                                         |
+  |                                                                         |
+  |   Update/Patch Notes: v1.1.0 (v196608).                                 |
+  |                                                                         |
+  |   This patch comes with a wide range of fixes, changes and new          |
+  |   content. The most noticeable update is that the opening cinematic     |
+  |   has been replaced by a more traditional loading screen. Balancing     |
+  |   changes have been made to many units, and all units can now be        |
+  |   healed in friendly structures - before it was limited just to         |
+  |   infantry units.                                                       |
+  |                                                                         |
+  |   A selection of new skirmish maps - including "Split Fire," "Sea of    |
+  |   Trees," and "Abandoned Park" - have been introduced as well, and      |
+  |   the Metalpedia has been updated with new lore. These alterations      |
+  |   are paving the way for the much-hyped multiplayer patch.              |
+  |                                                                         |
+  |   TINY METAL's Multiplayer Patch 1.1.0 is here! Test your METAL (!)     |
+  |   with another player in a grilling multiplayer match and work          |
+  |   through a whole new campaign act with Wolfram's side of the story!    |
+  |                                                                         |
+  |   Content:                                                              |
+  |                                                                         |
+  |   - Add three new skirmish maps "Split Fire", "Sea of Trees", and       |
+  |   "Abandoned Park".                                                     |
+  |                                                                         |
+  |   - Add loading screen in replacement of open cutscene video.           |
+  |                                                                         |
+  |   - Expand Hero Units Metalpedia entry.                                 |
+  |                                                                         |
+  |   UI:                                                                   |
+  |                                                                         |
+  |   - Increase text size for event dialogs.                               |
+  |                                                                         |
+  |   - Add 0.1 second wait between Hero selection and landing selection    |
+  |   to prevent mis-presses.                                               |
+  |                                                                         |
+  |   - Add canceling of fast forward during cutscene dialogs.              |
+  |                                                                         |
+  |   - Add two extra zoom levels in field mode.                            |
+  |                                                                         |
+  |   - Allow player cursor to enter unseen terrain.                        |
+  |                                                                         |
+  |   - Make player cursor hover on top of tiles and not fixed to the       |
+  |   floor.                                                                |
+  |                                                                         |
+  |   - Make attack previews for indirect units show the unmoved attack     |
+  |   range.                                                                |
+  |                                                                         |
+  |   - Make camera panning track focusing on indirect unit's targets.      |
+  |                                                                         |
+  |   - Make saving settings perform an immediate save to disk.             |
+  |                                                                         |
+  |   - Move cutscene dialog buttons to non-moving position at bottom of    |
+  |   screen.                                                               |
+  |                                                                         |
+  |   - Reduce default unit voice play chance to 50% from 100%.             |
+  |                                                                         |
+  |   - Increase contrast of hp % number on per unit hp bar.                |
+  |                                                                         |
+  |   Balance:                                                              |
+  |                                                                         |
+  |   - Make all land-based units healable at Cities, HQs, and Factories.   |
+  |                                                                         |
+  |   - Increase difficulty of M13 & M14 on both normal and New Game +.     |
+  |                                                                         |
+  |   - Reduce flanking vulnerability of Fighter units to 15% for attacks   |
+  |   from behind.                                                          |
+  |                                                                         |
+  |   - Increase terrain sighting range by +1 for Riflemen, Lancer,         |
+  |   SpecOps, Sniper, and Scout units.                                     |
+  |                                                                         |
+  |   - Increase terrain sighting range by +1 for all buildings that can    |
+  |   be captured.                                                          |
+  |                                                                         |
+  |   - Increase attack power of Riflemen and SpecOps against Sniper        |
+  |   units.                                                                |
+  |                                                                         |
+  |   - Increase attack power of Lancers against Heavy Metals.              |
+  |                                                                         |
+  |   - Decrease difficulty of Mt. Forest in Skirmish Mode.                 |
+  |                                                                         |
+  |   Bugfixes:                                                             |
+  |                                                                         |
+  |   - Fix victory not being given to player on three or more team maps    |
+  |   under rare conditions.                                                |
+  |                                                                         |
+  |   - Fix cursor realignment upon new player turn when auto-move to       |
+  |   next action is disabled.                                              |
+  |                                                                         |
+  |   - Fix optional mission 3 (MX03) not revealing during New Game+        |
+  |   mode.                                                                 |
+  |                                                                         |
+  |   - Fix some UI text not being translated.                              |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |      Greets                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |       Abstrakt . Capital . Caravan . Dual Crew Shining . Eurasia        |
+  |      Lightforce . Menace . Mode 7 . Nightfall . Oldskool . Paradox      |
+  |        Quartex . Quasar . Rising Sun . Squire . Triforce . Venom        |
+  :                                                                         :
+..:_________________________________________________________________________:..
+  :                                                                         :
+  .                 SUXXORS - Arcade Wargaming! Since 2003.                 .
+
